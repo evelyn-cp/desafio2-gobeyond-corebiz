@@ -6,7 +6,7 @@ Projeto desenvolvido para o Desafio 2 do programa Go Beyond - Corebiz: <br>
 2) Monte um algoritmo adicionando mais funcionários e ao resultado final o nome da pessoa e formatado em tabela.
 3) Transforme esse algoritmo em Javascript.
 
-Visite o projeto: <a href="https://desafio2-gobeyong-corebiz.netlify.app/" target="_blank">
+Visite o projeto: https://desafio2-gobeyong-corebiz.netlify.app/
 
 ## Tecnologias utilizadas
     -HTML
